@@ -6,10 +6,10 @@ import Footer from './components/Footer';
 function App() {
   return (
     <>
-    <div className='decorative-line'>
+
       <CharacterEditor />
       <Footer />
-      </div>
+    
     </>
   );
 }
